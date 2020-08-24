@@ -1,0 +1,387 @@
+{
+	"info": {
+		"_postman_id": "228fe543-d0db-4ccd-be5a-0c9dd47a71f4",
+		"name": "Programan 38 - Spotify",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "1. Obtención de Token",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/x-www-form-urlencoded",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "client_id",
+							"value": "143f974a7ffc4dcaa6dbe2c8a18a0c7d",
+							"type": "text"
+						},
+						{
+							"key": "client_secret",
+							"value": "c7ea6922db974e67818729533e5409dc",
+							"type": "text"
+						},
+						{
+							"key": "grant_type",
+							"value": "client_credentials",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://accounts.spotify.com/api/token",
+					"protocol": "https",
+					"host": [
+						"accounts",
+						"spotify",
+						"com"
+					],
+					"path": [
+						"api",
+						"token"
+					],
+					"query": [
+						{
+							"key": "",
+							"value": ""
+						},
+						{
+							"key": "",
+							"value": ""
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "2. Nuevos lanzamientos",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer BQCQaeLAVsI6faRT9zzzhr4Ex_borSRCsIxZQkvRA_156uGh1_8UNINbqTNYWHYTxbz8iNdQxQdGXrSzf9M",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "https://api.spotify.com/v1/browse/new-releases",
+					"protocol": "https",
+					"host": [
+						"api",
+						"spotify",
+						"com"
+					],
+					"path": [
+						"v1",
+						"browse",
+						"new-releases"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "3. Info Album by ID (Fronteras - Division Minuscula)",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer BQCkIlNTG_z-3FkfzulWhLaA0ifDc0jHQfewkAKAaMSqaAEcwHRCQ4GiCVIFl7C11RJDWijloDgUgujIWJc",
+						"type": "text"
+					},
+					{
+						"key": "Accept",
+						"value": "application/json",
+						"type": "text",
+						"disabled": true
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "https://api.spotify.com/v1/albums/1HU5rYMmZiI9YZjV6TTXEU",
+					"protocol": "https",
+					"host": [
+						"api",
+						"spotify",
+						"com"
+					],
+					"path": [
+						"v1",
+						"albums",
+						"1HU5rYMmZiI9YZjV6TTXEU"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "4.1 Obtención de categorías",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer BQCkIlNTG_z-3FkfzulWhLaA0ifDc0jHQfewkAKAaMSqaAEcwHRCQ4GiCVIFl7C11RJDWijloDgUgujIWJc",
+						"type": "text"
+					},
+					{
+						"key": "Accept",
+						"value": "application/json",
+						"type": "text",
+						"disabled": true
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "https://api.spotify.com/v1/browse/categories",
+					"protocol": "https",
+					"host": [
+						"api",
+						"spotify",
+						"com"
+					],
+					"path": [
+						"v1",
+						"browse",
+						"categories"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "4.2 Búsqueda q=rock type=album",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer BQApbmsNvyBDZXJJSCeRG9ZK87CwKxs9PdY_H3nKdcXeDir0j4qk8oFiHOjHlcprqCfPzE4FTONvuToIbVc",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "https://api.spotify.com/v1/search?q=rock&type=album",
+					"protocol": "https",
+					"host": [
+						"api",
+						"spotify",
+						"com"
+					],
+					"path": [
+						"v1",
+						"search"
+					],
+					"query": [
+						{
+							"key": "q",
+							"value": "rock"
+						},
+						{
+							"key": "type",
+							"value": "album"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "5.1 Obtener IDs de Top de artistas de usuario",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer BQAI_Jts0_CKpnMfYpe-mbVkqq56j-Xq5Mxo5V-3VXPTAF1qxaeKmgWkQaNz2ZRHbp2LbpwV88_h3-5bM5NaV2fOUIrOIkiTYIh5GbKPd0q7AcNY0Ga-UI2vmn5smqWHLgj6o50ZZObbK5mGo2djt3HFLnnNd95_g0hjnGdpIK_OCsoZ",
+						"type": "text"
+					},
+					{
+						"key": "OAuth",
+						"value": "",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "https://api.spotify.com/v1/me/top/artists",
+					"protocol": "https",
+					"host": [
+						"api",
+						"spotify",
+						"com"
+					],
+					"path": [
+						"v1",
+						"me",
+						"top",
+						"artists"
+					],
+					"query": [
+						{
+							"key": "",
+							"value": "",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "5.2 Obtener IDs de albumnes top de usuario ",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer BQAI_Jts0_CKpnMfYpe-mbVkqq56j-Xq5Mxo5V-3VXPTAF1qxaeKmgWkQaNz2ZRHbp2LbpwV88_h3-5bM5NaV2fOUIrOIkiTYIh5GbKPd0q7AcNY0Ga-UI2vmn5smqWHLgj6o50ZZObbK5mGo2djt3HFLnnNd95_g0hjnGdpIK_OCsoZ",
+						"type": "text"
+					},
+					{
+						"key": "OAuth",
+						"value": "",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "https://api.spotify.com/v1/me/top/tracks",
+					"protocol": "https",
+					"host": [
+						"api",
+						"spotify",
+						"com"
+					],
+					"path": [
+						"v1",
+						"me",
+						"top",
+						"tracks"
+					],
+					"query": [
+						{
+							"key": "",
+							"value": "",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Recomendacion basada en pais, top artistas y top usuarios",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer BQBBp3FE0qIlczG2VNJMiza6j80vasj18t60XonA9IeVV9o_45RyAUCp8cv4MtRN7N01CjmDq9nn5DfoCdM",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "https://api.spotify.com/v1/recommendations?market=US&seed_artists=2Ky9mFKNApb9KpEcORXE3p,3WrFJ7ztbogyGnTHbHJFl2&seed_tracks=0yc6Gst2xkRu0eMLeRMGCX,7COsTg4fY06rHnRVpnlhHH",
+					"protocol": "https",
+					"host": [
+						"api",
+						"spotify",
+						"com"
+					],
+					"path": [
+						"v1",
+						"recommendations"
+					],
+					"query": [
+						{
+							"key": "market",
+							"value": "US"
+						},
+						{
+							"key": "seed_artists",
+							"value": "2Ky9mFKNApb9KpEcORXE3p,3WrFJ7ztbogyGnTHbHJFl2"
+						},
+						{
+							"key": "seed_tracks",
+							"value": "0yc6Gst2xkRu0eMLeRMGCX,7COsTg4fY06rHnRVpnlhHH"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"id": "049db53c-2c26-45aa-b4ec-407d3eb5af55",
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"id": "23982537-6e86-49be-9e91-67d9400bab0e",
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	]
+}
