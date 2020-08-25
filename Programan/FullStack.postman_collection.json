@@ -1,0 +1,247 @@
+{
+	"info": {
+		"_postman_id": "63ff4a13-9fce-46a3-8c6f-ae97e90528ce",
+		"name": "FullStack",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Ejemplo 1",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "",
+						"value": "",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "https://jsonplaceholder.typicode.com/posts",
+					"protocol": "https",
+					"host": [
+						"jsonplaceholder",
+						"typicode",
+						"com"
+					],
+					"path": [
+						"posts"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Spoty Token",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "client_id",
+							"value": "c4c4f77b653d4481b5b466effe70359d",
+							"type": "text"
+						},
+						{
+							"key": "client_secret",
+							"value": "cad798ee25ab4513a61c67b185f722e2",
+							"type": "text"
+						},
+						{
+							"key": "grant_type",
+							"value": "client_credentials",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://accounts.spotify.com/api/token",
+					"protocol": "https",
+					"host": [
+						"accounts",
+						"spotify",
+						"com"
+					],
+					"path": [
+						"api",
+						"token"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "spotify/new-releases",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{spoty}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "BQC5CYnbYsXx2_TsjMQQEVH66vWyb0ZnnwitMe0H1jIWyv9BtnC5MTA8EsetyVcZTys2cpepMnn6NuIBuiA",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"url": {
+					"raw": "https://api.spotify.com/v1/browse/new-releases",
+					"protocol": "https",
+					"host": [
+						"api",
+						"spotify",
+						"com"
+					],
+					"path": [
+						"v1",
+						"browse",
+						"new-releases"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "albums/{id}",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{spoty}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [
+					{
+						"key": "",
+						"value": "",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"url": {
+					"raw": "https://api.spotify.com/v1/albums/41MnTivkwTO3UUJ8DrqEJJ",
+					"protocol": "https",
+					"host": [
+						"api",
+						"spotify",
+						"com"
+					],
+					"path": [
+						"v1",
+						"albums",
+						"41MnTivkwTO3UUJ8DrqEJJ"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "/me/top/artists",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{spoty}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer BQAHc-WjVVEn1VoXV5v0SnUamjxQhqDYd8x-4XuiAf1rcBmFSU4TxL7Oo6zIw7sp5xBplifElm3exQqzS0U",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"url": {
+					"raw": "https://api.spotify.com/v1/me/top/artists",
+					"protocol": "https",
+					"host": [
+						"api",
+						"spotify",
+						"com"
+					],
+					"path": [
+						"v1",
+						"me",
+						"top",
+						"artists"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "/search?q=rock&type=track&market=US",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{spoty}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [
+					{
+						"key": "",
+						"value": "",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"url": {
+					"raw": "https://api.spotify.com/v1/search?q=rock&type=track&market=US",
+					"protocol": "https",
+					"host": [
+						"api",
+						"spotify",
+						"com"
+					],
+					"path": [
+						"v1",
+						"search"
+					],
+					"query": [
+						{
+							"key": "q",
+							"value": "rock"
+						},
+						{
+							"key": "type",
+							"value": "track"
+						},
+						{
+							"key": "market",
+							"value": "US"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
