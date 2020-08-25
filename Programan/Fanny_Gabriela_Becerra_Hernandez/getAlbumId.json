@@ -1,0 +1,47 @@
+{
+  "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r/albums?offset=0&limit=1&include_groups=album,single,compilation,appears_on",
+  "items" : [ {
+    "album_group" : "album",
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+      "id" : "2cbWJP4X5b9sKEDW80uc5r",
+      "name" : "Diablo Swing Orchestra",
+      "type" : "artist",
+      "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6VesKYf187PLb4kZSaVIZ8"
+    },
+    "href" : "https://api.spotify.com/v1/albums/6VesKYf187PLb4kZSaVIZ8",
+    "id" : "6VesKYf187PLb4kZSaVIZ8",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273576c5ad119a005e4894adeec",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e02576c5ad119a005e4894adeec",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d00004851576c5ad119a005e4894adeec",
+      "width" : 64
+    } ],
+    "name" : "Pacifisticuffs",
+    "release_date" : "2017-12-08",
+    "release_date_precision" : "day",
+    "total_tracks" : 13,
+    "type" : "album",
+    "uri" : "spotify:album:6VesKYf187PLb4kZSaVIZ8"
+  } ],
+  "limit" : 1,
+  "next" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r/albums?offset=1&limit=1&include_groups=album,single,compilation,appears_on",
+  "offset" : 0,
+  "previous" : null,
+  "total" : 8
+}
