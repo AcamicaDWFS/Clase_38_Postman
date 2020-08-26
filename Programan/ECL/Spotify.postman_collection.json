@@ -1,0 +1,268 @@
+{
+	"info": {
+		"_postman_id": "f069b659-4f5c-4b1a-85cb-470b12dccf06",
+		"name": "Spotify",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "New Releases",
+			"request": {
+				"auth": {
+					"type": "bearer"
+				},
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"type": "text",
+						"value": "Bearer BQD-48FvF2LjYGP9LjH2442WGOQdAtE51HN13i7AuS-slIVWsRNvTEczmBolWAS2ox-OH408miizj3Ez4NY"
+					}
+				],
+				"url": {
+					"raw": "https://api.spotify.com/v1/browse/new-releases",
+					"protocol": "https",
+					"host": [
+						"api",
+						"spotify",
+						"com"
+					],
+					"path": [
+						"v1",
+						"browse",
+						"new-releases"
+					]
+				},
+				"description": "New Releases"
+			},
+			"response": []
+		},
+		{
+			"name": "Token",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "client_id",
+							"value": "26f9148d3f894033a180701e878d6836",
+							"type": "text"
+						},
+						{
+							"key": "client_secret",
+							"value": "55cc5ddb81854abf8a52eae1f878b43a",
+							"type": "text"
+						},
+						{
+							"key": "grant_type",
+							"value": "client_credentials",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://accounts.spotify.com/api/token",
+					"protocol": "https",
+					"host": [
+						"accounts",
+						"spotify",
+						"com"
+					],
+					"path": [
+						"api",
+						"token"
+					]
+				},
+				"description": "Post"
+			},
+			"response": []
+		},
+		{
+			"name": "Recomendaciones",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer BQD-48FvF2LjYGP9LjH2442WGOQdAtE51HN13i7AuS-slIVWsRNvTEczmBolWAS2ox-OH408miizj3Ez4NY",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "https://api.spotify.com/v1/recommendations?limit=10&market=MX&seed_genres=rock",
+					"protocol": "https",
+					"host": [
+						"api",
+						"spotify",
+						"com"
+					],
+					"path": [
+						"v1",
+						"recommendations"
+					],
+					"query": [
+						{
+							"key": "limit",
+							"value": "10"
+						},
+						{
+							"key": "market",
+							"value": "MX"
+						},
+						{
+							"key": "seed_genres",
+							"value": "rock"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Discos de Jazz",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer BQD-48FvF2LjYGP9LjH2442WGOQdAtE51HN13i7AuS-slIVWsRNvTEczmBolWAS2ox-OH408miizj3Ez4NY",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "https://api.spotify.com/v1/albums?ids=0S3diYtCrrzJZwZIclxtex,07DrDjDuFyuEuOhKR3c6HU,3nJVFB49PqXjAtvj3SAOcO,3Rs8N8816usZuKRwheZA7M,3MCA10J7pQrbSwhvOZjzU0",
+					"protocol": "https",
+					"host": [
+						"api",
+						"spotify",
+						"com"
+					],
+					"path": [
+						"v1",
+						"albums"
+					],
+					"query": [
+						{
+							"key": "ids",
+							"value": "0S3diYtCrrzJZwZIclxtex,07DrDjDuFyuEuOhKR3c6HU,3nJVFB49PqXjAtvj3SAOcO,3Rs8N8816usZuKRwheZA7M,3MCA10J7pQrbSwhvOZjzU0"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Album ID",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer BQAxw6f7q4gdHzSrmTWvqswomPFrOYsq2KSkMqOzfZhX9l0wyeInDXWvVLbkj0yw7Zo4_GFVziJVx2CppN8",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "https://api.spotify.com/v1/albums/0tzIPJxQTy6j6nQ3rbWXXy",
+					"protocol": "https",
+					"host": [
+						"api",
+						"spotify",
+						"com"
+					],
+					"path": [
+						"v1",
+						"albums",
+						"0tzIPJxQTy6j6nQ3rbWXXy"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Spotify_user_id",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer BQDbqNFAJN68M_x0bJb4gSy8_4zdPvtGGLAI2p1oJWxpGrEsKRxKkJPPzz_mmQ5KKbVSVIiB4OQBbJ2ocMo",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "https://api.spotify.com/v1/users/steff_cervy",
+					"protocol": "https",
+					"host": [
+						"api",
+						"spotify",
+						"com"
+					],
+					"path": [
+						"v1",
+						"users",
+						"steff_cervy"
+					],
+					"query": [
+						{
+							"key": "",
+							"value": null,
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Recomendaciones pesonalizadas",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer BQAEBhjzq94GKjiO7xPwFBDomNHPbs30Dc_S4S_t1q4VTEdgy1XbXpxRWp-cmMCpZgzRSPJ36rAwqO06w8mVxu-5OZBLDeyU31pzQW_n4s-zfbXUKlCavcUhC5MwYkabGN0buGYCWdB8uzzty37rKdkM",
+						"type": "text"
+					},
+					{
+						"key": "user_id",
+						"value": "steff_cervy",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"url": {
+					"raw": "https://api.spotify.com/v1/me/top/artists",
+					"protocol": "https",
+					"host": [
+						"api",
+						"spotify",
+						"com"
+					],
+					"path": [
+						"v1",
+						"me",
+						"top",
+						"artists"
+					],
+					"query": [
+						{
+							"key": "limit",
+							"value": "2",
+							"disabled": true
+						},
+						{
+							"key": "steff_cervy",
+							"value": null,
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
