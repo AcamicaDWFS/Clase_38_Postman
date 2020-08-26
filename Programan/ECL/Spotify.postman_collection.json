@@ -180,6 +180,88 @@
 				}
 			},
 			"response": []
+		},
+		{
+			"name": "Spotify_user_id",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer BQDbqNFAJN68M_x0bJb4gSy8_4zdPvtGGLAI2p1oJWxpGrEsKRxKkJPPzz_mmQ5KKbVSVIiB4OQBbJ2ocMo",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "https://api.spotify.com/v1/users/steff_cervy",
+					"protocol": "https",
+					"host": [
+						"api",
+						"spotify",
+						"com"
+					],
+					"path": [
+						"v1",
+						"users",
+						"steff_cervy"
+					],
+					"query": [
+						{
+							"key": "",
+							"value": null,
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Recomendaciones pesonalizadas",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer BQAEBhjzq94GKjiO7xPwFBDomNHPbs30Dc_S4S_t1q4VTEdgy1XbXpxRWp-cmMCpZgzRSPJ36rAwqO06w8mVxu-5OZBLDeyU31pzQW_n4s-zfbXUKlCavcUhC5MwYkabGN0buGYCWdB8uzzty37rKdkM",
+						"type": "text"
+					},
+					{
+						"key": "user_id",
+						"value": "steff_cervy",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"url": {
+					"raw": "https://api.spotify.com/v1/me/top/artists",
+					"protocol": "https",
+					"host": [
+						"api",
+						"spotify",
+						"com"
+					],
+					"path": [
+						"v1",
+						"me",
+						"top",
+						"artists"
+					],
+					"query": [
+						{
+							"key": "limit",
+							"value": "2",
+							"disabled": true
+						},
+						{
+							"key": "steff_cervy",
+							"value": null,
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
 		}
 	],
 	"protocolProfileBehavior": {}
