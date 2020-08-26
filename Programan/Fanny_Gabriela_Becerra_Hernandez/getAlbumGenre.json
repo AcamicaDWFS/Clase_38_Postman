@@ -1,0 +1,2295 @@
+{
+  "albums" : [ {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+      "id" : "2cbWJP4X5b9sKEDW80uc5r",
+      "name" : "Diablo Swing Orchestra",
+      "type" : "artist",
+      "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "copyrights" : [ {
+      "text" : "© 2017 Tanglade Ltd t/a Candlelight Records",
+      "type" : "C"
+    }, {
+      "text" : "℗ 2017 Tanglade Ltd t/a Candlelight Records",
+      "type" : "P"
+    } ],
+    "external_ids" : {
+      "upc" : "00602557923988"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/6VesKYf187PLb4kZSaVIZ8"
+    },
+    "genres" : [ ],
+    "href" : "https://api.spotify.com/v1/albums/6VesKYf187PLb4kZSaVIZ8",
+    "id" : "6VesKYf187PLb4kZSaVIZ8",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273576c5ad119a005e4894adeec",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e02576c5ad119a005e4894adeec",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d00004851576c5ad119a005e4894adeec",
+      "width" : 64
+    } ],
+    "label" : "Spinefarm Records UK",
+    "name" : "Pacifisticuffs",
+    "popularity" : 41,
+    "release_date" : "2017-12-08",
+    "release_date_precision" : "day",
+    "total_tracks" : 13,
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/albums/6VesKYf187PLb4kZSaVIZ8/tracks?offset=0&limit=50",
+      "items" : [ {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 146866,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/2J5swcF6FrSCsji2VRjpqx"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/2J5swcF6FrSCsji2VRjpqx",
+        "id" : "2J5swcF6FrSCsji2VRjpqx",
+        "is_local" : false,
+        "name" : "Knucklehugs (Arm Yourself With Love)",
+        "preview_url" : null,
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:2J5swcF6FrSCsji2VRjpqx"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 300080,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/7HCUnUFKw3TmYowjaYfawy"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/7HCUnUFKw3TmYowjaYfawy",
+        "id" : "7HCUnUFKw3TmYowjaYfawy",
+        "is_local" : false,
+        "name" : "The Age Of Vulture Culture",
+        "preview_url" : null,
+        "track_number" : 2,
+        "type" : "track",
+        "uri" : "spotify:track:7HCUnUFKw3TmYowjaYfawy"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 341373,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/2nYwBcAlpyI4DWy69CRgtR"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/2nYwBcAlpyI4DWy69CRgtR",
+        "id" : "2nYwBcAlpyI4DWy69CRgtR",
+        "is_local" : false,
+        "name" : "Superhero Jagganath",
+        "preview_url" : null,
+        "track_number" : 3,
+        "type" : "track",
+        "uri" : "spotify:track:2nYwBcAlpyI4DWy69CRgtR"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 61013,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/0FWEANFVEiveM8ilZclUss"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/0FWEANFVEiveM8ilZclUss",
+        "id" : "0FWEANFVEiveM8ilZclUss",
+        "is_local" : false,
+        "name" : "Vision Of The Purblind",
+        "preview_url" : null,
+        "track_number" : 4,
+        "type" : "track",
+        "uri" : "spotify:track:0FWEANFVEiveM8ilZclUss"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 290013,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/2aMBVUIe8GHcyFXyFG9txt"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/2aMBVUIe8GHcyFXyFG9txt",
+        "id" : "2aMBVUIe8GHcyFXyFG9txt",
+        "is_local" : false,
+        "name" : "Lady Clandestine Chainbreaker",
+        "preview_url" : null,
+        "track_number" : 5,
+        "type" : "track",
+        "uri" : "spotify:track:2aMBVUIe8GHcyFXyFG9txt"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 292600,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/1p3DmovfESXXg0Ktd03ejn"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/1p3DmovfESXXg0Ktd03ejn",
+        "id" : "1p3DmovfESXXg0Ktd03ejn",
+        "is_local" : false,
+        "name" : "Jigsaw Hustle",
+        "preview_url" : null,
+        "track_number" : 6,
+        "type" : "track",
+        "uri" : "spotify:track:1p3DmovfESXXg0Ktd03ejn"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 34440,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/2tVw93Z9BmEzmxylTTrUIA"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/2tVw93Z9BmEzmxylTTrUIA",
+        "id" : "2tVw93Z9BmEzmxylTTrUIA",
+        "is_local" : false,
+        "name" : "Pulse Of The Incipient",
+        "preview_url" : null,
+        "track_number" : 7,
+        "type" : "track",
+        "uri" : "spotify:track:2tVw93Z9BmEzmxylTTrUIA"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 229386,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/1sHywrGl1sHXdtqkZCt6rm"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/1sHywrGl1sHXdtqkZCt6rm",
+        "id" : "1sHywrGl1sHXdtqkZCt6rm",
+        "is_local" : false,
+        "name" : "Ode To The Innocent",
+        "preview_url" : null,
+        "track_number" : 8,
+        "type" : "track",
+        "uri" : "spotify:track:1sHywrGl1sHXdtqkZCt6rm"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 321346,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/1LvQVeavoT1Ob7YwnebvG6"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/1LvQVeavoT1Ob7YwnebvG6",
+        "id" : "1LvQVeavoT1Ob7YwnebvG6",
+        "is_local" : false,
+        "name" : "Interruption",
+        "preview_url" : null,
+        "track_number" : 9,
+        "type" : "track",
+        "uri" : "spotify:track:1LvQVeavoT1Ob7YwnebvG6"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 69160,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/2PWfnXOQSw8YwPT6XzoPOQ"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/2PWfnXOQSw8YwPT6XzoPOQ",
+        "id" : "2PWfnXOQSw8YwPT6XzoPOQ",
+        "is_local" : false,
+        "name" : "Cul-De-Sac Semantics",
+        "preview_url" : null,
+        "track_number" : 10,
+        "type" : "track",
+        "uri" : "spotify:track:2PWfnXOQSw8YwPT6XzoPOQ"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 254826,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/2fXkZu04EWR78ng20KnJs0"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/2fXkZu04EWR78ng20KnJs0",
+        "id" : "2fXkZu04EWR78ng20KnJs0",
+        "is_local" : false,
+        "name" : "Karma Bonfire",
+        "preview_url" : null,
+        "track_number" : 11,
+        "type" : "track",
+        "uri" : "spotify:track:2fXkZu04EWR78ng20KnJs0"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 280573,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/3pmlDFimko2PZeWyG1PLSM"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/3pmlDFimko2PZeWyG1PLSM",
+        "id" : "3pmlDFimko2PZeWyG1PLSM",
+        "is_local" : false,
+        "name" : "Climbing The Eyewall",
+        "preview_url" : null,
+        "track_number" : 12,
+        "type" : "track",
+        "uri" : "spotify:track:3pmlDFimko2PZeWyG1PLSM"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 43973,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/63Zk5eqRQay6fnhwEp1Rgm"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/63Zk5eqRQay6fnhwEp1Rgm",
+        "id" : "63Zk5eqRQay6fnhwEp1Rgm",
+        "is_local" : false,
+        "name" : "Porch Of Perception",
+        "preview_url" : null,
+        "track_number" : 13,
+        "type" : "track",
+        "uri" : "spotify:track:63Zk5eqRQay6fnhwEp1Rgm"
+      } ],
+      "limit" : 50,
+      "next" : null,
+      "offset" : 0,
+      "previous" : null,
+      "total" : 13
+    },
+    "type" : "album",
+    "uri" : "spotify:album:6VesKYf187PLb4kZSaVIZ8"
+  }, {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+      "id" : "2cbWJP4X5b9sKEDW80uc5r",
+      "name" : "Diablo Swing Orchestra",
+      "type" : "artist",
+      "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "copyrights" : [ {
+      "text" : "2012 Guillotine Grooves & Diablo Swing Orchestra",
+      "type" : "C"
+    }, {
+      "text" : "2012 The Laser's Edge",
+      "type" : "P"
+    } ],
+    "external_ids" : {
+      "upc" : "763232306127"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2vH7yefGF66c95Mk9IQdCo"
+    },
+    "genres" : [ ],
+    "href" : "https://api.spotify.com/v1/albums/2vH7yefGF66c95Mk9IQdCo",
+    "id" : "2vH7yefGF66c95Mk9IQdCo",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273011bd3aa04cae19fd35cbf13",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e02011bd3aa04cae19fd35cbf13",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d00004851011bd3aa04cae19fd35cbf13",
+      "width" : 64
+    } ],
+    "label" : "Sensory",
+    "name" : "Pandora's Pinata",
+    "popularity" : 14,
+    "release_date" : "2012-05-22",
+    "release_date_precision" : "day",
+    "total_tracks" : 11,
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/albums/2vH7yefGF66c95Mk9IQdCo/tracks?offset=0&limit=50",
+      "items" : [ {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "CA", "US" ],
+        "disc_number" : 1,
+        "duration_ms" : 271520,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/43rWBDSoKhQxcgyJhBtg5i"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/43rWBDSoKhQxcgyJhBtg5i",
+        "id" : "43rWBDSoKhQxcgyJhBtg5i",
+        "is_local" : false,
+        "name" : "Voodoo Mon Amour",
+        "preview_url" : "https://p.scdn.co/mp3-preview/6fa9aa2a92345a47ae4cdb0d3764ead2defad51a?cid=dd38dcced0c54979a5a346e6c6eeb42d",
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:43rWBDSoKhQxcgyJhBtg5i"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "CA", "US" ],
+        "disc_number" : 1,
+        "duration_ms" : 295053,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/48iLJlkcYlTOdtulW6Yy10"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/48iLJlkcYlTOdtulW6Yy10",
+        "id" : "48iLJlkcYlTOdtulW6Yy10",
+        "is_local" : false,
+        "name" : "Guerrilla Laments",
+        "preview_url" : "https://p.scdn.co/mp3-preview/eea763f23d1baa645978835e815e4ef3886e7052?cid=dd38dcced0c54979a5a346e6c6eeb42d",
+        "track_number" : 2,
+        "type" : "track",
+        "uri" : "spotify:track:48iLJlkcYlTOdtulW6Yy10"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "CA", "US" ],
+        "disc_number" : 1,
+        "duration_ms" : 264906,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/7pjBsyPBUZgiDSi3DXgDzq"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/7pjBsyPBUZgiDSi3DXgDzq",
+        "id" : "7pjBsyPBUZgiDSi3DXgDzq",
+        "is_local" : false,
+        "name" : "Kevlar Sweethearts",
+        "preview_url" : "https://p.scdn.co/mp3-preview/1727c59cdacc4f55b33f23c473a0847a22a6930f?cid=dd38dcced0c54979a5a346e6c6eeb42d",
+        "track_number" : 3,
+        "type" : "track",
+        "uri" : "spotify:track:7pjBsyPBUZgiDSi3DXgDzq"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "CA", "US" ],
+        "disc_number" : 1,
+        "duration_ms" : 53160,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/0Gr5aocY8UGFXfSRKdIcTW"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/0Gr5aocY8UGFXfSRKdIcTW",
+        "id" : "0Gr5aocY8UGFXfSRKdIcTW",
+        "is_local" : false,
+        "name" : "How to Organize a Lynch Mob",
+        "preview_url" : "https://p.scdn.co/mp3-preview/a4a280527b58bd8a4a310c2db7b19572db1d0dee?cid=dd38dcced0c54979a5a346e6c6eeb42d",
+        "track_number" : 4,
+        "type" : "track",
+        "uri" : "spotify:track:0Gr5aocY8UGFXfSRKdIcTW"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "CA", "US" ],
+        "disc_number" : 1,
+        "duration_ms" : 177280,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/2XXJBDvPjo4tn9So1NB4Ep"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/2XXJBDvPjo4tn9So1NB4Ep",
+        "id" : "2XXJBDvPjo4tn9So1NB4Ep",
+        "is_local" : false,
+        "name" : "Black Box Messiah",
+        "preview_url" : "https://p.scdn.co/mp3-preview/1aa762a24c9b79e62d2f929a48473e2c0d9d0492?cid=dd38dcced0c54979a5a346e6c6eeb42d",
+        "track_number" : 5,
+        "type" : "track",
+        "uri" : "spotify:track:2XXJBDvPjo4tn9So1NB4Ep"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "CA", "US" ],
+        "disc_number" : 1,
+        "duration_ms" : 361573,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/1FgiwnbIgCuVv1gRdFdl3i"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/1FgiwnbIgCuVv1gRdFdl3i",
+        "id" : "1FgiwnbIgCuVv1gRdFdl3i",
+        "is_local" : false,
+        "name" : "Exit Strategy of a Wrecking Ball",
+        "preview_url" : "https://p.scdn.co/mp3-preview/1dd8f84954358973a58a31c0cc84d6b5e7a2600d?cid=dd38dcced0c54979a5a346e6c6eeb42d",
+        "track_number" : 6,
+        "type" : "track",
+        "uri" : "spotify:track:1FgiwnbIgCuVv1gRdFdl3i"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "CA", "US" ],
+        "disc_number" : 1,
+        "duration_ms" : 305093,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/3eJo5hxcRr8B6K2NOsqQ5S"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/3eJo5hxcRr8B6K2NOsqQ5S",
+        "id" : "3eJo5hxcRr8B6K2NOsqQ5S",
+        "is_local" : false,
+        "name" : "Aurora",
+        "preview_url" : "https://p.scdn.co/mp3-preview/046c63b4bf2c048f6caf608a5e5dcf3b2da14ef4?cid=dd38dcced0c54979a5a346e6c6eeb42d",
+        "track_number" : 7,
+        "type" : "track",
+        "uri" : "spotify:track:3eJo5hxcRr8B6K2NOsqQ5S"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "CA", "US" ],
+        "disc_number" : 1,
+        "duration_ms" : 363280,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/0z7XSJOmLZYqmyxGj5P3H4"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/0z7XSJOmLZYqmyxGj5P3H4",
+        "id" : "0z7XSJOmLZYqmyxGj5P3H4",
+        "is_local" : false,
+        "name" : "Mass Rapture",
+        "preview_url" : "https://p.scdn.co/mp3-preview/3abb162b0dcc023dedbb92aaf77f4deb1407460f?cid=dd38dcced0c54979a5a346e6c6eeb42d",
+        "track_number" : 8,
+        "type" : "track",
+        "uri" : "spotify:track:0z7XSJOmLZYqmyxGj5P3H4"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "CA", "US" ],
+        "disc_number" : 1,
+        "duration_ms" : 255200,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/3WihLKqGgJ6VHXlM1oHr5S"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/3WihLKqGgJ6VHXlM1oHr5S",
+        "id" : "3WihLKqGgJ6VHXlM1oHr5S",
+        "is_local" : false,
+        "name" : "Honey Trap Aftermath",
+        "preview_url" : "https://p.scdn.co/mp3-preview/c41762747a330af73469136a138ad79989c086f6?cid=dd38dcced0c54979a5a346e6c6eeb42d",
+        "track_number" : 9,
+        "type" : "track",
+        "uri" : "spotify:track:3WihLKqGgJ6VHXlM1oHr5S"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "CA", "US" ],
+        "disc_number" : 1,
+        "duration_ms" : 265066,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/0ILAC3iFTTTjksl5n8rpGO"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/0ILAC3iFTTTjksl5n8rpGO",
+        "id" : "0ILAC3iFTTTjksl5n8rpGO",
+        "is_local" : false,
+        "name" : "Of Kali Ma Calibre",
+        "preview_url" : "https://p.scdn.co/mp3-preview/bac91bd1638294f6f21a378c4be907b1629b8f3d?cid=dd38dcced0c54979a5a346e6c6eeb42d",
+        "track_number" : 10,
+        "type" : "track",
+        "uri" : "spotify:track:0ILAC3iFTTTjksl5n8rpGO"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "CA", "US" ],
+        "disc_number" : 1,
+        "duration_ms" : 497253,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/1dnIhD5BMYKbsDNleAdPPV"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/1dnIhD5BMYKbsDNleAdPPV",
+        "id" : "1dnIhD5BMYKbsDNleAdPPV",
+        "is_local" : false,
+        "name" : "Justice for Saint Mary",
+        "preview_url" : "https://p.scdn.co/mp3-preview/66fa59bbcd01326a4501ad5ba0253642b12c73d9?cid=dd38dcced0c54979a5a346e6c6eeb42d",
+        "track_number" : 11,
+        "type" : "track",
+        "uri" : "spotify:track:1dnIhD5BMYKbsDNleAdPPV"
+      } ],
+      "limit" : 50,
+      "next" : null,
+      "offset" : 0,
+      "previous" : null,
+      "total" : 11
+    },
+    "type" : "album",
+    "uri" : "spotify:album:2vH7yefGF66c95Mk9IQdCo"
+  }, {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+      "id" : "2cbWJP4X5b9sKEDW80uc5r",
+      "name" : "Diablo Swing Orchestra",
+      "type" : "artist",
+      "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "copyrights" : [ {
+      "text" : "© 2012 Tanglade Ltd t/a Candlelight Records",
+      "type" : "C"
+    }, {
+      "text" : "℗ 2012 Tanglade Ltd t/a Candlelight Records",
+      "type" : "P"
+    } ],
+    "external_ids" : {
+      "upc" : "00602557525830"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0pRLYXwvvYYqMZPV9qLihC"
+    },
+    "genres" : [ ],
+    "href" : "https://api.spotify.com/v1/albums/0pRLYXwvvYYqMZPV9qLihC",
+    "id" : "0pRLYXwvvYYqMZPV9qLihC",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b2737f1eaad747fdd3e8c47dd471",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e027f1eaad747fdd3e8c47dd471",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d000048517f1eaad747fdd3e8c47dd471",
+      "width" : 64
+    } ],
+    "label" : "Spinefarm Records UK",
+    "name" : "Pandora's Piñata",
+    "popularity" : 42,
+    "release_date" : "2012-05-14",
+    "release_date_precision" : "day",
+    "total_tracks" : 11,
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/albums/0pRLYXwvvYYqMZPV9qLihC/tracks?offset=0&limit=50",
+      "items" : [ {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 271520,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/4xtuYNdQyVWgVS7AQBGbSP"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/4xtuYNdQyVWgVS7AQBGbSP",
+        "id" : "4xtuYNdQyVWgVS7AQBGbSP",
+        "is_local" : false,
+        "name" : "Voodoo mon amour",
+        "preview_url" : null,
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:4xtuYNdQyVWgVS7AQBGbSP"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 295053,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/3yMWbVxovgG6A7Pl0DvSlF"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/3yMWbVxovgG6A7Pl0DvSlF",
+        "id" : "3yMWbVxovgG6A7Pl0DvSlF",
+        "is_local" : false,
+        "name" : "Guerrilla Laments",
+        "preview_url" : null,
+        "track_number" : 2,
+        "type" : "track",
+        "uri" : "spotify:track:3yMWbVxovgG6A7Pl0DvSlF"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 264906,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/2ErjwKHQ5WijLaTEvM7Yo5"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/2ErjwKHQ5WijLaTEvM7Yo5",
+        "id" : "2ErjwKHQ5WijLaTEvM7Yo5",
+        "is_local" : false,
+        "name" : "Kevlar Sweethearts",
+        "preview_url" : null,
+        "track_number" : 3,
+        "type" : "track",
+        "uri" : "spotify:track:2ErjwKHQ5WijLaTEvM7Yo5"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 53160,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/1UJIgIvJ2ZNa96jmKOGnzS"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/1UJIgIvJ2ZNa96jmKOGnzS",
+        "id" : "1UJIgIvJ2ZNa96jmKOGnzS",
+        "is_local" : false,
+        "name" : "How To Organize A Lynch Mob",
+        "preview_url" : null,
+        "track_number" : 4,
+        "type" : "track",
+        "uri" : "spotify:track:1UJIgIvJ2ZNa96jmKOGnzS"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 177280,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/4z4lmHZnpBsfmc5Bgg7pGN"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/4z4lmHZnpBsfmc5Bgg7pGN",
+        "id" : "4z4lmHZnpBsfmc5Bgg7pGN",
+        "is_local" : false,
+        "name" : "Black Box Messiah",
+        "preview_url" : null,
+        "track_number" : 5,
+        "type" : "track",
+        "uri" : "spotify:track:4z4lmHZnpBsfmc5Bgg7pGN"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 361573,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/47rQvKTp8yBGozDFTZ8yFL"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/47rQvKTp8yBGozDFTZ8yFL",
+        "id" : "47rQvKTp8yBGozDFTZ8yFL",
+        "is_local" : false,
+        "name" : "Exit Strategy Of A Wrecking Ball",
+        "preview_url" : null,
+        "track_number" : 6,
+        "type" : "track",
+        "uri" : "spotify:track:47rQvKTp8yBGozDFTZ8yFL"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 305093,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/5jqBYZ8XlZPJdx1uNA0kW4"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/5jqBYZ8XlZPJdx1uNA0kW4",
+        "id" : "5jqBYZ8XlZPJdx1uNA0kW4",
+        "is_local" : false,
+        "name" : "Aurora",
+        "preview_url" : null,
+        "track_number" : 7,
+        "type" : "track",
+        "uri" : "spotify:track:5jqBYZ8XlZPJdx1uNA0kW4"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 363280,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/1UZbimIQ3bvEmgVtb6xFWA"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/1UZbimIQ3bvEmgVtb6xFWA",
+        "id" : "1UZbimIQ3bvEmgVtb6xFWA",
+        "is_local" : false,
+        "name" : "Mass Rapture",
+        "preview_url" : null,
+        "track_number" : 8,
+        "type" : "track",
+        "uri" : "spotify:track:1UZbimIQ3bvEmgVtb6xFWA"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 255200,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/7e4Gs5gGCYxn6zDdyNwErn"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/7e4Gs5gGCYxn6zDdyNwErn",
+        "id" : "7e4Gs5gGCYxn6zDdyNwErn",
+        "is_local" : false,
+        "name" : "Honey Trap Aftermath",
+        "preview_url" : null,
+        "track_number" : 9,
+        "type" : "track",
+        "uri" : "spotify:track:7e4Gs5gGCYxn6zDdyNwErn"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 265066,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/718bClZmBl2Nul32U20mfJ"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/718bClZmBl2Nul32U20mfJ",
+        "id" : "718bClZmBl2Nul32U20mfJ",
+        "is_local" : false,
+        "name" : "Of Kali Ma Calibre",
+        "preview_url" : null,
+        "track_number" : 10,
+        "type" : "track",
+        "uri" : "spotify:track:718bClZmBl2Nul32U20mfJ"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 497253,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/7adBRGDsGBM8JXpb929y98"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/7adBRGDsGBM8JXpb929y98",
+        "id" : "7adBRGDsGBM8JXpb929y98",
+        "is_local" : false,
+        "name" : "Justice For Saint Mary",
+        "preview_url" : null,
+        "track_number" : 11,
+        "type" : "track",
+        "uri" : "spotify:track:7adBRGDsGBM8JXpb929y98"
+      } ],
+      "limit" : 50,
+      "next" : null,
+      "offset" : 0,
+      "previous" : null,
+      "total" : 11
+    },
+    "type" : "album",
+    "uri" : "spotify:album:0pRLYXwvvYYqMZPV9qLihC"
+  }, {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+      "id" : "2cbWJP4X5b9sKEDW80uc5r",
+      "name" : "Diablo Swing Orchestra",
+      "type" : "artist",
+      "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "ZA" ],
+    "copyrights" : [ {
+      "text" : "2009 Ascendance Records",
+      "type" : "C"
+    }, {
+      "text" : "2009 Ascendance Records",
+      "type" : "P"
+    } ],
+    "external_ids" : {
+      "upc" : "803341307957"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/36j0yWKLk5a6rLgJEhUghU"
+    },
+    "genres" : [ ],
+    "href" : "https://api.spotify.com/v1/albums/36j0yWKLk5a6rLgJEhUghU",
+    "id" : "36j0yWKLk5a6rLgJEhUghU",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b27315ce5025c85209057531580a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e0215ce5025c85209057531580a",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d0000485115ce5025c85209057531580a",
+      "width" : 64
+    } ],
+    "label" : "Ascendance Records",
+    "name" : "Sing-Along Songs for the Damned and Delirious",
+    "popularity" : 35,
+    "release_date" : "2009-09-21",
+    "release_date_precision" : "day",
+    "total_tracks" : 10,
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/albums/36j0yWKLk5a6rLgJEhUghU/tracks?offset=0&limit=50",
+      "items" : [ {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 312333,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/3RJtaxRtxOvvIj6DESm4gh"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/3RJtaxRtxOvvIj6DESm4gh",
+        "id" : "3RJtaxRtxOvvIj6DESm4gh",
+        "is_local" : false,
+        "name" : "A Tapdancer's Dilema",
+        "preview_url" : "https://p.scdn.co/mp3-preview/41c1a852d0b368f0001cb922c532664594181967?cid=dd38dcced0c54979a5a346e6c6eeb42d",
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:3RJtaxRtxOvvIj6DESm4gh"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 267600,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/5F0oy6bCb3acFJPTqiYsQM"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/5F0oy6bCb3acFJPTqiYsQM",
+        "id" : "5F0oy6bCb3acFJPTqiYsQM",
+        "is_local" : false,
+        "name" : "A Rancid Romance",
+        "preview_url" : "https://p.scdn.co/mp3-preview/969760c823cc9f0a7a48af8141ecc398bd4ff725?cid=dd38dcced0c54979a5a346e6c6eeb42d",
+        "track_number" : 2,
+        "type" : "track",
+        "uri" : "spotify:track:5F0oy6bCb3acFJPTqiYsQM"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 394640,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/3HaBJn63BIBB1uk6mDZDEw"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/3HaBJn63BIBB1uk6mDZDEw",
+        "id" : "3HaBJn63BIBB1uk6mDZDEw",
+        "is_local" : false,
+        "name" : "Lucy Fears the Morning Star",
+        "preview_url" : "https://p.scdn.co/mp3-preview/253df3f358961644c187aa41851c651111d3f9ea?cid=dd38dcced0c54979a5a346e6c6eeb42d",
+        "track_number" : 3,
+        "type" : "track",
+        "uri" : "spotify:track:3HaBJn63BIBB1uk6mDZDEw"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 209173,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/2oNsJ8mSGGrz7PeSkH04Y8"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/2oNsJ8mSGGrz7PeSkH04Y8",
+        "id" : "2oNsJ8mSGGrz7PeSkH04Y8",
+        "is_local" : false,
+        "name" : "Bedlam Sticks",
+        "preview_url" : "https://p.scdn.co/mp3-preview/ddceea05b4f3ee244cb42abb958b91aa7d6b9b56?cid=dd38dcced0c54979a5a346e6c6eeb42d",
+        "track_number" : 4,
+        "type" : "track",
+        "uri" : "spotify:track:2oNsJ8mSGGrz7PeSkH04Y8"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 356266,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/35sLxq98ak1QgQZbvralxb"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/35sLxq98ak1QgQZbvralxb",
+        "id" : "35sLxq98ak1QgQZbvralxb",
+        "is_local" : false,
+        "name" : "New World Widows",
+        "preview_url" : "https://p.scdn.co/mp3-preview/baf0bf0981626b8746f9af62431b6edd860e7c47?cid=dd38dcced0c54979a5a346e6c6eeb42d",
+        "track_number" : 5,
+        "type" : "track",
+        "uri" : "spotify:track:35sLxq98ak1QgQZbvralxb"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 58493,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/2cAHrFMscPHKOy8daPF5Jg"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/2cAHrFMscPHKOy8daPF5Jg",
+        "id" : "2cAHrFMscPHKOy8daPF5Jg",
+        "is_local" : false,
+        "name" : "Siberian Love Affairs",
+        "preview_url" : "https://p.scdn.co/mp3-preview/9daad86850024a3376e9da792018c97add465f80?cid=dd38dcced0c54979a5a346e6c6eeb42d",
+        "track_number" : 6,
+        "type" : "track",
+        "uri" : "spotify:track:2cAHrFMscPHKOy8daPF5Jg"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 248160,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/1HjMSJL3MAdN6jkhPR8fPR"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/1HjMSJL3MAdN6jkhPR8fPR",
+        "id" : "1HjMSJL3MAdN6jkhPR8fPR",
+        "is_local" : false,
+        "name" : "Vodka Inferno",
+        "preview_url" : "https://p.scdn.co/mp3-preview/df916b510354fea61e5cba1265897d83f7b9c991?cid=dd38dcced0c54979a5a346e6c6eeb42d",
+        "track_number" : 7,
+        "type" : "track",
+        "uri" : "spotify:track:1HjMSJL3MAdN6jkhPR8fPR"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 210573,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/43qfkylrbBxVZEQ3erXvng"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/43qfkylrbBxVZEQ3erXvng",
+        "id" : "43qfkylrbBxVZEQ3erXvng",
+        "is_local" : false,
+        "name" : "Memoirs of a Roadkill",
+        "preview_url" : "https://p.scdn.co/mp3-preview/73ae44d13a4ad28d86bce51d0e650df87bbcb554?cid=dd38dcced0c54979a5a346e6c6eeb42d",
+        "track_number" : 8,
+        "type" : "track",
+        "uri" : "spotify:track:43qfkylrbBxVZEQ3erXvng"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 334560,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/7xKdllqIjidTcO42KwppWb"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/7xKdllqIjidTcO42KwppWb",
+        "id" : "7xKdllqIjidTcO42KwppWb",
+        "is_local" : false,
+        "name" : "Ricerca Dell'anima",
+        "preview_url" : "https://p.scdn.co/mp3-preview/90d58944452ba54b24e248380881839e35ad7f28?cid=dd38dcced0c54979a5a346e6c6eeb42d",
+        "track_number" : 9,
+        "type" : "track",
+        "uri" : "spotify:track:7xKdllqIjidTcO42KwppWb"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "UY", "VN", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 505200,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/527xklI1BeHbnWtAP9t3u6"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/527xklI1BeHbnWtAP9t3u6",
+        "id" : "527xklI1BeHbnWtAP9t3u6",
+        "is_local" : false,
+        "name" : "Stratosphere Serenade",
+        "preview_url" : "https://p.scdn.co/mp3-preview/569e10491fcde41bc2b39034a648d3eb4e84ba77?cid=dd38dcced0c54979a5a346e6c6eeb42d",
+        "track_number" : 10,
+        "type" : "track",
+        "uri" : "spotify:track:527xklI1BeHbnWtAP9t3u6"
+      } ],
+      "limit" : 50,
+      "next" : null,
+      "offset" : 0,
+      "previous" : null,
+      "total" : 10
+    },
+    "type" : "album",
+    "uri" : "spotify:album:36j0yWKLk5a6rLgJEhUghU"
+  }, {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+      "id" : "2cbWJP4X5b9sKEDW80uc5r",
+      "name" : "Diablo Swing Orchestra",
+      "type" : "artist",
+      "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+    } ],
+    "available_markets" : [ "CA", "US" ],
+    "copyrights" : [ {
+      "text" : "2009 Guillotine Grooves & Diablo Swing Orchestra",
+      "type" : "C"
+    }, {
+      "text" : "2009 The Laser's Edge",
+      "type" : "P"
+    } ],
+    "external_ids" : {
+      "upc" : "763232305021"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/3X6ortTMfuGb51cPeZdcCb"
+    },
+    "genres" : [ ],
+    "href" : "https://api.spotify.com/v1/albums/3X6ortTMfuGb51cPeZdcCb",
+    "id" : "3X6ortTMfuGb51cPeZdcCb",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273cbd17bff88e7a669b421fbd0",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e02cbd17bff88e7a669b421fbd0",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d00004851cbd17bff88e7a669b421fbd0",
+      "width" : 64
+    } ],
+    "label" : "Sensory",
+    "name" : "Sing Along Songs for the Damned & Dangerous",
+    "popularity" : 24,
+    "release_date" : "2009-06-29",
+    "release_date_precision" : "day",
+    "total_tracks" : 10,
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/albums/3X6ortTMfuGb51cPeZdcCb/tracks?offset=0&limit=50",
+      "items" : [ {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "CA", "US" ],
+        "disc_number" : 1,
+        "duration_ms" : 312333,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/3CZ7XSUybQDbeAT7GqZ3sd"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/3CZ7XSUybQDbeAT7GqZ3sd",
+        "id" : "3CZ7XSUybQDbeAT7GqZ3sd",
+        "is_local" : false,
+        "name" : "A Tap Dancer's Dilemma",
+        "preview_url" : "https://p.scdn.co/mp3-preview/c38e1821b3fce95f83b1de834b6ca99f8cd76425?cid=dd38dcced0c54979a5a346e6c6eeb42d",
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:3CZ7XSUybQDbeAT7GqZ3sd"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "CA", "US" ],
+        "disc_number" : 1,
+        "duration_ms" : 267600,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/7ajf9wp7O0g63eM8Phu45c"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/7ajf9wp7O0g63eM8Phu45c",
+        "id" : "7ajf9wp7O0g63eM8Phu45c",
+        "is_local" : false,
+        "name" : "Rancid Romance",
+        "preview_url" : "https://p.scdn.co/mp3-preview/0740d3dbb0d6e35b4a2e7bc31cb69c1ce3145732?cid=dd38dcced0c54979a5a346e6c6eeb42d",
+        "track_number" : 2,
+        "type" : "track",
+        "uri" : "spotify:track:7ajf9wp7O0g63eM8Phu45c"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "CA", "US" ],
+        "disc_number" : 1,
+        "duration_ms" : 394640,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/2a71xpbaFMuUxWzwbKDLRo"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/2a71xpbaFMuUxWzwbKDLRo",
+        "id" : "2a71xpbaFMuUxWzwbKDLRo",
+        "is_local" : false,
+        "name" : "Lucy Fears the Morning Star",
+        "preview_url" : "https://p.scdn.co/mp3-preview/ade1159c0ee522a80673a75f71f1846f9c9a1bb4?cid=dd38dcced0c54979a5a346e6c6eeb42d",
+        "track_number" : 3,
+        "type" : "track",
+        "uri" : "spotify:track:2a71xpbaFMuUxWzwbKDLRo"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "CA", "US" ],
+        "disc_number" : 1,
+        "duration_ms" : 209173,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/3eXBqDwvmxKMFsCUsK2IbV"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/3eXBqDwvmxKMFsCUsK2IbV",
+        "id" : "3eXBqDwvmxKMFsCUsK2IbV",
+        "is_local" : false,
+        "name" : "Bedlam Sticks",
+        "preview_url" : "https://p.scdn.co/mp3-preview/a8b2cb3e64c94ac2360873a879ff155edb0aa8a9?cid=dd38dcced0c54979a5a346e6c6eeb42d",
+        "track_number" : 4,
+        "type" : "track",
+        "uri" : "spotify:track:3eXBqDwvmxKMFsCUsK2IbV"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "CA", "US" ],
+        "disc_number" : 1,
+        "duration_ms" : 356266,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/5RTccozGPeAR2UJaZsFIBg"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/5RTccozGPeAR2UJaZsFIBg",
+        "id" : "5RTccozGPeAR2UJaZsFIBg",
+        "is_local" : false,
+        "name" : "New World Widows",
+        "preview_url" : "https://p.scdn.co/mp3-preview/ea4daf8a751c70727e9d3ecfa1bf553cf201a863?cid=dd38dcced0c54979a5a346e6c6eeb42d",
+        "track_number" : 5,
+        "type" : "track",
+        "uri" : "spotify:track:5RTccozGPeAR2UJaZsFIBg"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "CA", "US" ],
+        "disc_number" : 1,
+        "duration_ms" : 58493,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/3cXzCmXp1wypbOsTbqpDgV"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/3cXzCmXp1wypbOsTbqpDgV",
+        "id" : "3cXzCmXp1wypbOsTbqpDgV",
+        "is_local" : false,
+        "name" : "Siberian Love Affairs",
+        "preview_url" : "https://p.scdn.co/mp3-preview/1acfcdf3e604aae4d535d65e1c79b28cc4face4b?cid=dd38dcced0c54979a5a346e6c6eeb42d",
+        "track_number" : 6,
+        "type" : "track",
+        "uri" : "spotify:track:3cXzCmXp1wypbOsTbqpDgV"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "CA", "US" ],
+        "disc_number" : 1,
+        "duration_ms" : 248160,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/46CjFUKKFlIHapCfM2SdeE"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/46CjFUKKFlIHapCfM2SdeE",
+        "id" : "46CjFUKKFlIHapCfM2SdeE",
+        "is_local" : false,
+        "name" : "Vodka Inferno",
+        "preview_url" : "https://p.scdn.co/mp3-preview/dd3a350a218362ebde27d6ed3ba3db0130bc706e?cid=dd38dcced0c54979a5a346e6c6eeb42d",
+        "track_number" : 7,
+        "type" : "track",
+        "uri" : "spotify:track:46CjFUKKFlIHapCfM2SdeE"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "CA", "US" ],
+        "disc_number" : 1,
+        "duration_ms" : 210573,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/3cSiRz2T4CdF1aN4LZljaM"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/3cSiRz2T4CdF1aN4LZljaM",
+        "id" : "3cSiRz2T4CdF1aN4LZljaM",
+        "is_local" : false,
+        "name" : "Memoirs of a Roadkill",
+        "preview_url" : "https://p.scdn.co/mp3-preview/0fed47c084a518591a14af73ee2483a60a3f499f?cid=dd38dcced0c54979a5a346e6c6eeb42d",
+        "track_number" : 8,
+        "type" : "track",
+        "uri" : "spotify:track:3cSiRz2T4CdF1aN4LZljaM"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "CA", "US" ],
+        "disc_number" : 1,
+        "duration_ms" : 334560,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/3UX3BPdHwzPsAnAr0G7Vr6"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/3UX3BPdHwzPsAnAr0G7Vr6",
+        "id" : "3UX3BPdHwzPsAnAr0G7Vr6",
+        "is_local" : false,
+        "name" : "Ricera Dell'anima",
+        "preview_url" : "https://p.scdn.co/mp3-preview/a36ba53a069898b717a2279aeacb21bfcceffffa?cid=dd38dcced0c54979a5a346e6c6eeb42d",
+        "track_number" : 9,
+        "type" : "track",
+        "uri" : "spotify:track:3UX3BPdHwzPsAnAr0G7Vr6"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "CA", "US" ],
+        "disc_number" : 1,
+        "duration_ms" : 505200,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/7wmRjNBvJERq42sc88W02L"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/7wmRjNBvJERq42sc88W02L",
+        "id" : "7wmRjNBvJERq42sc88W02L",
+        "is_local" : false,
+        "name" : "Stratosphere Serenade",
+        "preview_url" : "https://p.scdn.co/mp3-preview/e4b7a05859c0b005e9750a87216fe05ef9779f61?cid=dd38dcced0c54979a5a346e6c6eeb42d",
+        "track_number" : 10,
+        "type" : "track",
+        "uri" : "spotify:track:7wmRjNBvJERq42sc88W02L"
+      } ],
+      "limit" : 50,
+      "next" : null,
+      "offset" : 0,
+      "previous" : null,
+      "total" : 10
+    },
+    "type" : "album",
+    "uri" : "spotify:album:3X6ortTMfuGb51cPeZdcCb"
+  }, {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+      "id" : "2cbWJP4X5b9sKEDW80uc5r",
+      "name" : "Diablo Swing Orchestra",
+      "type" : "artist",
+      "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "copyrights" : [ {
+      "text" : "© 2006 Tanglade Ltd t/a Candlelight Records",
+      "type" : "C"
+    }, {
+      "text" : "℗ 2006 Tanglade Ltd t/a Candlelight Records",
+      "type" : "P"
+    } ],
+    "external_ids" : {
+      "upc" : "00602557525809"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0vrDphLWoDi4PNk5s4xiN4"
+    },
+    "genres" : [ ],
+    "href" : "https://api.spotify.com/v1/albums/0vrDphLWoDi4PNk5s4xiN4",
+    "id" : "0vrDphLWoDi4PNk5s4xiN4",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273380e29d7df29fc9b127b37b1",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e02380e29d7df29fc9b127b37b1",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d00004851380e29d7df29fc9b127b37b1",
+      "width" : 64
+    } ],
+    "label" : "Spinefarm Records UK",
+    "name" : "The Butcher's Ballroom",
+    "popularity" : 41,
+    "release_date" : "2006-08-17",
+    "release_date_precision" : "day",
+    "total_tracks" : 13,
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/albums/0vrDphLWoDi4PNk5s4xiN4/tracks?offset=0&limit=50",
+      "items" : [ {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 233133,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/65RptVLH4KdgCeEAuPS8WY"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/65RptVLH4KdgCeEAuPS8WY",
+        "id" : "65RptVLH4KdgCeEAuPS8WY",
+        "is_local" : false,
+        "name" : "Balrog Boogie",
+        "preview_url" : null,
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:65RptVLH4KdgCeEAuPS8WY"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 322560,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/7CNyG934XWPTmeGRgYGxvc"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/7CNyG934XWPTmeGRgYGxvc",
+        "id" : "7CNyG934XWPTmeGRgYGxvc",
+        "is_local" : false,
+        "name" : "Heroines",
+        "preview_url" : null,
+        "track_number" : 2,
+        "type" : "track",
+        "uri" : "spotify:track:7CNyG934XWPTmeGRgYGxvc"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 291706,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/22L0zn10xTEYdeH6gG6fbT"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/22L0zn10xTEYdeH6gG6fbT",
+        "id" : "22L0zn10xTEYdeH6gG6fbT",
+        "is_local" : false,
+        "name" : "Poetic Pitbull Revolution",
+        "preview_url" : null,
+        "track_number" : 3,
+        "type" : "track",
+        "uri" : "spotify:track:22L0zn10xTEYdeH6gG6fbT"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 233026,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/7HeZ7jVtRt3Gsx80x9nQer"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/7HeZ7jVtRt3Gsx80x9nQer",
+        "id" : "7HeZ7jVtRt3Gsx80x9nQer",
+        "is_local" : false,
+        "name" : "Rag Doll Physics",
+        "preview_url" : null,
+        "track_number" : 4,
+        "type" : "track",
+        "uri" : "spotify:track:7HeZ7jVtRt3Gsx80x9nQer"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 114373,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/5DXx0kATdU58kaOZe1k705"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/5DXx0kATdU58kaOZe1k705",
+        "id" : "5DXx0kATdU58kaOZe1k705",
+        "is_local" : false,
+        "name" : "D'Angelo",
+        "preview_url" : null,
+        "track_number" : 5,
+        "type" : "track",
+        "uri" : "spotify:track:5DXx0kATdU58kaOZe1k705"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 245400,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/6M0DAjlqZ58m5KltGj98KJ"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/6M0DAjlqZ58m5KltGj98KJ",
+        "id" : "6M0DAjlqZ58m5KltGj98KJ",
+        "is_local" : false,
+        "name" : "Velvet Embracer",
+        "preview_url" : null,
+        "track_number" : 6,
+        "type" : "track",
+        "uri" : "spotify:track:6M0DAjlqZ58m5KltGj98KJ"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 110800,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/4iTKyzPIsBXEBKQSbROgrE"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/4iTKyzPIsBXEBKQSbROgrE",
+        "id" : "4iTKyzPIsBXEBKQSbROgrE",
+        "is_local" : false,
+        "name" : "Gunpowder Chant",
+        "preview_url" : null,
+        "track_number" : 7,
+        "type" : "track",
+        "uri" : "spotify:track:4iTKyzPIsBXEBKQSbROgrE"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 294400,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/482O50cWFocggEglNcMFfk"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/482O50cWFocggEglNcMFfk",
+        "id" : "482O50cWFocggEglNcMFfk",
+        "is_local" : false,
+        "name" : "Infralove",
+        "preview_url" : null,
+        "track_number" : 8,
+        "type" : "track",
+        "uri" : "spotify:track:482O50cWFocggEglNcMFfk"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 193733,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/3vci4XobgpCBYSrA9emlK7"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/3vci4XobgpCBYSrA9emlK7",
+        "id" : "3vci4XobgpCBYSrA9emlK7",
+        "is_local" : false,
+        "name" : "Wedding March For A Bullet",
+        "preview_url" : null,
+        "track_number" : 9,
+        "type" : "track",
+        "uri" : "spotify:track:3vci4XobgpCBYSrA9emlK7"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 76133,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/1mRm8ZDTs8AGnW60rAVKjw"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/1mRm8ZDTs8AGnW60rAVKjw",
+        "id" : "1mRm8ZDTs8AGnW60rAVKjw",
+        "is_local" : false,
+        "name" : "Qualms Of Conscience",
+        "preview_url" : null,
+        "track_number" : 10,
+        "type" : "track",
+        "uri" : "spotify:track:1mRm8ZDTs8AGnW60rAVKjw"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 287533,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/1zfTRzaWfWNeb4hiyeHwmp"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/1zfTRzaWfWNeb4hiyeHwmp",
+        "id" : "1zfTRzaWfWNeb4hiyeHwmp",
+        "is_local" : false,
+        "name" : "Zodiac Virtues",
+        "preview_url" : null,
+        "track_number" : 11,
+        "type" : "track",
+        "uri" : "spotify:track:1zfTRzaWfWNeb4hiyeHwmp"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 249133,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/5rLt0fSdmHnbM8ReaV4Ozm"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/5rLt0fSdmHnbM8ReaV4Ozm",
+        "id" : "5rLt0fSdmHnbM8ReaV4Ozm",
+        "is_local" : false,
+        "name" : "Porcelain Judas",
+        "preview_url" : null,
+        "track_number" : 12,
+        "type" : "track",
+        "uri" : "spotify:track:5rLt0fSdmHnbM8ReaV4Ozm"
+      }, {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 366733,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/03B9I81GdEAwXVCOIqA0hX"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/03B9I81GdEAwXVCOIqA0hX",
+        "id" : "03B9I81GdEAwXVCOIqA0hX",
+        "is_local" : false,
+        "name" : "Pink Noise Waltz",
+        "preview_url" : null,
+        "track_number" : 13,
+        "type" : "track",
+        "uri" : "spotify:track:03B9I81GdEAwXVCOIqA0hX"
+      } ],
+      "limit" : 50,
+      "next" : null,
+      "offset" : 0,
+      "previous" : null,
+      "total" : 13
+    },
+    "type" : "album",
+    "uri" : "spotify:album:0vrDphLWoDi4PNk5s4xiN4"
+  }, {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+      "id" : "2cbWJP4X5b9sKEDW80uc5r",
+      "name" : "Diablo Swing Orchestra",
+      "type" : "artist",
+      "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "copyrights" : [ {
+      "text" : "© 2017 Tanglade Ltd t/a Candlelight Records",
+      "type" : "C"
+    }, {
+      "text" : "℗ 2017 Tanglade Ltd t/a Candlelight Records",
+      "type" : "P"
+    } ],
+    "external_ids" : {
+      "upc" : "00602567119999"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/05wIFATEHiUZ28o61fduel"
+    },
+    "genres" : [ ],
+    "href" : "https://api.spotify.com/v1/albums/05wIFATEHiUZ28o61fduel",
+    "id" : "05wIFATEHiUZ28o61fduel",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b27316dfee4cf4c4158be5c66e0c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e0216dfee4cf4c4158be5c66e0c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d0000485116dfee4cf4c4158be5c66e0c",
+      "width" : 64
+    } ],
+    "label" : "Spinefarm Records UK",
+    "name" : "The Age Of Vulture Culture",
+    "popularity" : 10,
+    "release_date" : "2017-12-01",
+    "release_date_precision" : "day",
+    "total_tracks" : 1,
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/albums/05wIFATEHiUZ28o61fduel/tracks?offset=0&limit=50",
+      "items" : [ {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 300080,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/3l9GpvzPHraw6ZD6APfbl7"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/3l9GpvzPHraw6ZD6APfbl7",
+        "id" : "3l9GpvzPHraw6ZD6APfbl7",
+        "is_local" : false,
+        "name" : "The Age Of Vulture Culture",
+        "preview_url" : null,
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:3l9GpvzPHraw6ZD6APfbl7"
+      } ],
+      "limit" : 50,
+      "next" : null,
+      "offset" : 0,
+      "previous" : null,
+      "total" : 1
+    },
+    "type" : "album",
+    "uri" : "spotify:album:05wIFATEHiUZ28o61fduel"
+  }, {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+      "id" : "2cbWJP4X5b9sKEDW80uc5r",
+      "name" : "Diablo Swing Orchestra",
+      "type" : "artist",
+      "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+    } ],
+    "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+    "copyrights" : [ {
+      "text" : "© 2017 Tanglade Ltd t/a Candlelight Records",
+      "type" : "C"
+    }, {
+      "text" : "℗ 2017 Tanglade Ltd t/a Candlelight Records",
+      "type" : "P"
+    } ],
+    "external_ids" : {
+      "upc" : "00602567119982"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2b6dgkd3RcgXX9OWShFvlV"
+    },
+    "genres" : [ ],
+    "href" : "https://api.spotify.com/v1/albums/2b6dgkd3RcgXX9OWShFvlV",
+    "id" : "2b6dgkd3RcgXX9OWShFvlV",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273c8832d20990e1498a942c7d0",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e02c8832d20990e1498a942c7d0",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d00004851c8832d20990e1498a942c7d0",
+      "width" : 64
+    } ],
+    "label" : "Spinefarm Records UK",
+    "name" : "Knucklehugs (Arm Yourself With Love)",
+    "popularity" : 9,
+    "release_date" : "2017-11-03",
+    "release_date_precision" : "day",
+    "total_tracks" : 1,
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/albums/2b6dgkd3RcgXX9OWShFvlV/tracks?offset=0&limit=50",
+      "items" : [ {
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2cbWJP4X5b9sKEDW80uc5r",
+          "id" : "2cbWJP4X5b9sKEDW80uc5r",
+          "name" : "Diablo Swing Orchestra",
+          "type" : "artist",
+          "uri" : "spotify:artist:2cbWJP4X5b9sKEDW80uc5r"
+        } ],
+        "available_markets" : [ "AD", "AE", "AL", "AR", "AT", "AU", "BA", "BE", "BG", "BH", "BO", "BR", "BY", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HR", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "KZ", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MK", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "RS", "RU", "SA", "SE", "SG", "SI", "SK", "SV", "TH", "TN", "TR", "TW", "UA", "US", "UY", "VN", "XK", "ZA" ],
+        "disc_number" : 1,
+        "duration_ms" : 146866,
+        "explicit" : false,
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/track/1hghYivJ2U8uOPJruxXX7b"
+        },
+        "href" : "https://api.spotify.com/v1/tracks/1hghYivJ2U8uOPJruxXX7b",
+        "id" : "1hghYivJ2U8uOPJruxXX7b",
+        "is_local" : false,
+        "name" : "Knucklehugs (Arm Yourself With Love)",
+        "preview_url" : null,
+        "track_number" : 1,
+        "type" : "track",
+        "uri" : "spotify:track:1hghYivJ2U8uOPJruxXX7b"
+      } ],
+      "limit" : 50,
+      "next" : null,
+      "offset" : 0,
+      "previous" : null,
+      "total" : 1
+    },
+    "type" : "album",
+    "uri" : "spotify:album:2b6dgkd3RcgXX9OWShFvlV"
+  } ]
+}
